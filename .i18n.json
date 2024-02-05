@@ -1,0 +1,13 @@
+{
+    "languageMetadataDirectory": "",
+    "languageKeyMode": [
+        {
+            "type": "prop",
+            "value": ["id"]
+        },
+        {
+            "type": "function",
+            "value": ["lang"]
+        }
+    ]
+}
